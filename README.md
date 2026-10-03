@@ -36,7 +36,7 @@ The dataset contains information related to students' demographic characteristic
 
 ## Objective
 
-The main objectives of this EDA are:
+### The main objectives of this EDA are:
 
 - Understand the structure and distribution of the dataset.
 - Analyze numerical and categorical variables.
